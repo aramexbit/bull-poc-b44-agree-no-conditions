@@ -1,0 +1,14 @@
+Bull SDK WARNING: using http://127.0.0.1:3007 instead of https://www.bull.family. Only continue if you run this server yourself.
+[K-2049c CONTROL agree() with attest-by-arbiter] {"case":"K-2049c CONTROL agree() with attest-by-arbiter","sdkSent":true,"sdkThrew":"","agreementId":"1","releaseBeforeAttestBlocked":true,"arbiterAttested":true,"releasedAfterAttest":true,"payeeGainedUsdg":"500"}
+[
+  {
+    "case": "K-2049c CONTROL agree() with attest-by-arbiter",
+    "sdkSent": true,
+    "sdkThrew": "",
+    "agreementId": "1",
+    "releaseBeforeAttestBlocked": true,
+    "arbiterAttested": true,
+    "releasedAfterAttest": true,
+    "payeeGainedUsdg": "500"
+  }
+]

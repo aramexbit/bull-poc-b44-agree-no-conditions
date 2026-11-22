@@ -1,0 +1,16 @@
+Bull SDK WARNING: using http://127.0.0.1:3007 instead of https://www.bull.family. Only continue if you run this server yourself.
+[K-2049 agree() no conditions, server attest-by-attacker] {"case":"K-2049 agree() no conditions, server attest-by-attacker","sdkSent":true,"sdkThrew":"","agreementId":"1","releaseImmediatelyBlocked":true,"releaseAtExpiryBlocked":true,"strangerRefundAfterExpiry":true,"payerRestoredToPreDeal":true,"payeeGainedUsdg":"0","delayOnly":true}
+[
+  {
+    "case": "K-2049 agree() no conditions, server attest-by-attacker",
+    "sdkSent": true,
+    "sdkThrew": "",
+    "agreementId": "1",
+    "releaseImmediatelyBlocked": true,
+    "releaseAtExpiryBlocked": true,
+    "strangerRefundAfterExpiry": true,
+    "payerRestoredToPreDeal": true,
+    "payeeGainedUsdg": "0",
+    "delayOnly": true
+  }
+]

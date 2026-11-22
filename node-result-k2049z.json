@@ -1,0 +1,16 @@
+{
+  "mode": "k2049z",
+  "sdk": "f450d44df1812a6b9254c7b8cbac8aab89e94301cb86727f439643dfad47efae",
+  "agreement": "v4.1-0x7AB58fAAe65eFCF0037635382cAA546EaC233DA6",
+  "results": [
+    {
+      "case": "K-2049z agree() no conditions, server ZERO conditions",
+      "sdkSent": false,
+      "sdkThrew": "Execution reverted with reason: custom error 0x2bb9acf7.\n\nRequest Arguments:\n  chain:  Robinhood Chain (id: 4663)\n  from:   0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266\n  to:     0x7AB58fAAe65eFCF0037635382cAA546EaC233DA6\n  value:  0 ETH\n  data:   0x8952f925000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000001200000000000000000",
+      "agreementId": null,
+      "sdkCheckPassedChainReverted": true,
+      "noAgreementCreated": true,
+      "note": "SDK sends (no conditions check) but v4.1 create reverts: zero-condition leg dead at chain"
+    }
+  ]
+}

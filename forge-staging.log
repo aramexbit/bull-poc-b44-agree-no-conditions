@@ -1,0 +1,9 @@
+No files changed, compilation skipped
+
+Ran 3 tests for test/Minor5A.t.sol:Minor5ATest
+[PASS] testK2049a_ZeroConditionsCreateReverts() (gas: 95585)
+[PASS] testK2049b_AttackerAttestBlocksThenRefunds() (gas: 514934)
+[PASS] testK2049c_HonestAttestReleases() (gas: 577850)
+Suite result: ok. 3 passed; 0 failed; 0 skipped; finished in 73.78ms (2.06ms CPU time)
+
+Ran 1 test suite in 77.72ms (73.78ms CPU time): 3 tests passed, 0 failed, 0 skipped (3 total tests)
